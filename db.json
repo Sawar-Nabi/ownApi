@@ -1,5 +1,27 @@
 {
-  "users": [],
+  "users": [
+  {
+      "id": 322470,
+      "name": "Sawar Nabi",
+      "address": "Kremshore",
+      "phone": "9622656564",
+      "email": "sawarnabi@gmail.com"
+    },
+    {
+      "id": 322471,
+      "name": "Muneeb",
+      "address": "Bodpora",
+      "phone": "7298319164",
+      "email": "muneeb@gmail.com"
+    },
+    {
+      "id": 93309,
+      "name": "Zubair Ahmad Bhat",
+      "address": "Kremshore",
+      "phone": "9906808034",
+      "email": "zubair@gmail.com"
+    }
+  ],
   "posts": [
     {
       "id": 1,
